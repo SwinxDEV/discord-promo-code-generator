@@ -1,4 +1,4 @@
-# Chess.com Account Generator  
+# Discord Promo Code Generator
 
 ### Description  
 This script automates the creation of Chess.com accounts using the `puppeteer-real-browser` library. It generates random email addresses, usernames, and passwords, navigates through the registration process, and can create multiple accounts simultaneously based on user input.  
